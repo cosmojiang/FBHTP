@@ -5,10 +5,15 @@ GPhenoVision is a ground mobile system with multi-modal imaging for field-based 
 **LabVIEW and modules**
 
 Following LabVIEW components are required.
+
 LabVIEW 2017 core
+
 NI-DAQ 2017
+
 NI-VISA 2017
+
 NI-VAS 2017
+
 NI-Vision 2017
 
 **Third-party packages**
