@@ -9,4 +9,5 @@ LabVIEW 2017 core, NI-DAQ 2017, NI-VISA 2017, NI-VAS 2017, and NI-Vision 2017
 
 **Third-party packages**
 
-
+Andor SDK for LabVIEW: for hyperspectral imaging <br>
+FLIR Thermal LabVIEW toolkit: for thermal imaging <br>s
