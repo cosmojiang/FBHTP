@@ -4,10 +4,17 @@ GPhenoVision is a ground mobile system with multi-modal imaging for field-based 
 
 **LabVIEW and modules**
 
-Following LabVIEW components are required.
-LabVIEW 2017 core, NI-DAQ 2017, NI-VISA 2017, NI-VAS 2017, and NI-Vision 2017
+Following LabVIEW components are required. <br>
+LabVIEW 2017 core <br>
+NI-DAQ 2017 <br>
+NI-VISA 2017 <br>
+NI-VAS 2017 <br>
+NI-Vision 2017 <br>
 
 **Third-party packages**
 
 Andor SDK for LabVIEW: for hyperspectral imaging <br>
-FLIR Thermal LabVIEW toolkit: for thermal imaging <br>s
+FLIR Thermal LabVIEW toolkit: for thermal imaging <br>
+Ocean Optics Omni Driver: for spectrometer <br>
+Kinect v2 SDK: for Kinect v2 sensor <br>
+
